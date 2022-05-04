@@ -1,0 +1,66 @@
+#dialog-button-class{
+    color: bisque;
+    background: #7a2929;
+    border-radius: 5px;
+    /* padding: 12px; */
+    margin-left: 17px;
+}
+
+.checkout-items-name{
+    font-weight: bolder;
+    padding-bottom: 7px;
+
+}
+#snack-bar-class{
+/* margin-top: 2rem; */
+
+opacity: 0.9;
+}
+
+.checkout-items-price{
+    font-weight: small;
+    color:#7a2929 ;
+}
+
+.MuiDialog-paper {
+    padding: 13px !important;
+    width: 525px !important;
+}
+.checkout-items{
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+.no-cart-items{
+    color: #605b5b;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.total-title{
+    color: #7a2929;
+    font-weight: 700;
+}
+.total-output{
+    color: #7a2929;
+
+    float: right;
+}
+
+.items-count-class{
+    font-weight: 500;
+    font-size: small;
+    padding-left: 6px;
+    color: #605b5b;
+}
+
+#button-class{
+    margin-left: 6px;
+    color: #7a2929;
+    background: bisque;
+    border: #7a2929;
+
+}
+
+.buttons-parent{
+}
